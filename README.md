@@ -7,7 +7,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Prerequisites</h2>
 
-- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+- [Creating Virtual Machines in the Cloud](https://github.com/Jadm1992/AzureProject)
 - [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)(For reference purposes. Link to download zip file is below.)
 
 <h2>Environments and Technologies Used</h2>
@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 - In Azure, create a VM with the same configurations as before and name it osTicket-vm. You can refer back to this previous project if needed:
-[Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+[Creating Virtual Machines in the Cloud](https://github.com/Jadm1992/AzureProject)
 
 - [osTicket Installation Files](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0) 
 
